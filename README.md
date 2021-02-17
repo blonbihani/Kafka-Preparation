@@ -30,3 +30,6 @@ To begin preparing for Kafka Apps, we will follow the given steps:
 
 <img src = "Kafka Consumer.PNG">
 
+## References
+
+- (Apache Kafka Definition)[https://kafka.apache.org/intro]
