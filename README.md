@@ -32,4 +32,4 @@ To begin preparing for Kafka Apps, we will follow the given steps:
 
 ## References
 
-- (Apache Kafka Definition)[https://kafka.apache.org/intro]
+- [Apache Kafka Definition](https://kafka.apache.org/intro)
