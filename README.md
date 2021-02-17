@@ -17,10 +17,12 @@ To begin preparing for Kafka Apps, we will follow the given steps:
 ``` .\bin\windows\kafka-topics.bat --zookeeper localhost:2181 –list ```
 
 ## Step 5: Start a Kafka producer for writing messages to your unique topic
-``` .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic Texas-Snow```
+``` .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic Texas-Snow```">
+<img src = "Kafka Producer.PNG">
 
 ## Step 6: start a Kafka consumer for retrieving messages from your unique topic
 ``` 
 .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic bearcat-messages Texas-Snow --from-beginning 
 ```
+<img src = "Kafka Consumer.PNG">
 
